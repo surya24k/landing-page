@@ -1,0 +1,40 @@
+body{
+    margin-top: 2px;
+}
+.head{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.head a{
+    color: khaki;
+}
+.font h3{
+    margin-top: 130px;
+    padding-left: 350px;
+    color: white;
+    font-size: 25px;
+    font-style: oblique;
+    font-weight: 200;
+}
+.font h1{
+    padding-left: 260px;
+    color: white;
+    font-size: 40px;
+    font-weight: bolder;
+}
+.font button{
+    margin-left: 355px;
+}
+.font{
+    position: absolute;
+    z-index: 1;
+}
+.font h5{
+    color: white;
+}
+.font button{
+    padding: 15px 15px 15px 15px;
+    background-color: black;
+    color: white;
+}
